@@ -8,16 +8,7 @@
 </p>
 
 
-<p align="center"> <b>Guanglong Sun<sup>1,2</sup>, Hongwei Yan<sup>1,2</sup>, Liyuan Wang<sup>†3</sup>, Zhiqi Kang<sup>4</sup>, Shuang Cui<sup>5</sup>, Hang Su<sup>6</sup>, Jun Zhu<sup>6</sup>, Yi Zhong<sup>†1,2</sup></b> </p>
-
-<p align="left" style="font-size: 0.9em;"> <sup>1</sup> School of Life Sciences, IDG/McGovern Institute for Brain Research, Tsinghua University, Beijing, China
-<sup>2</sup> Tsinghua–Peking Joint Center for Life Sciences
-<sup>3</sup> Department of Psychological and Cognitive Sciences, Tsinghua University, Beijing, China
-<sup>4</sup> Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK, Grenoble, France
-<sup>5</sup> Institute of Software Chinese Academy of Sciences, Beijing, China
-<sup>6</sup> Dept. of Comp. Sci. and Tech., Institute for AI, Tsinghua-Bosch Joint ML Center, THBI Lab, BNRist Center, Tsinghua University, Beijing, China </p>
-<p align="center"> (†</sup>Corresponding Author) </p>
-
+<p align="center"> <b>Guanglong Sun, Hongwei Yan, Liyuan Wang, Zhiqi Kang, Shuang Cui, Hang Su, Jun Zhu, Yi Zhong</b> </p>
 
 
 Official PyTorch implementation of our paper for **General Continual Learning (GCL)**.
