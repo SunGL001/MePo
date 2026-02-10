@@ -1,5 +1,13 @@
 # MePo: Meta Post-Refinement for General Continual Learning (GCL)
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2602.07940"><img src="https://img.shields.io/badge/arXiv-2602.01976-b31b1b.svg?logo=arXiv"></a>
+  <a href="https://huggingface.co/long2333/MePo"><img src="https://img.shields.io/badge/HuggingFace-Model%20Card-yellow?logo=huggingface"></a>
+  <a href="https://github.com/SunGL001/MePo"><img src="https://img.shields.io/github/stars/SunGL001/MePo?color=4fb5ee"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+</p>
+
+
 Official PyTorch implementation of our paper for **General Continual Learning (GCL)**.
 
 **MePo** (**Me**ta **Po**st-Pretraining) improves GCL with three components: **Meta-Learning for Representation Learning**, **Meta Covariance Initialization**, and **Feature Alignment**. The meta post-pretraining stage adapts the backbone to a more GCL-friendly representation before downstream continual learning.
@@ -250,14 +258,22 @@ MePo/
 
 ## 🙏 Acknowledgements
 
-We thank the authors and maintainers of MISA, L2P, DualPrompt, FlyGCL, and related open-source projects and datasets.
+We thank the authors and maintainers of MISA(https://github.com/kangzhiq/MISA), FlyGCL(https://github.com/AnAppleCore/FlyGCL), and related open-source projects and datasets.
 
 ## 📝 Citation
 
 If this repository helps your research, please cite our paper:
 
 ```bibtex
-todo
+@misc{sun2026mepometapostrefinementrehearsalfree,
+      title={MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learnin}, 
+      author={Guanglong Sun and Hongwei Yan and Liyuan Wang and Zhiqi Kang and Shuang Cui and Hang Su and Jun Zhu and Yi Zhong},
+      year={2026},
+      eprint={2602.07940},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.07940}, 
+}
 ```
 
 ## ✉️ Contact
