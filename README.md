@@ -11,8 +11,6 @@
 <p align="center"> <b>Guanglong Sun, Hongwei Yan, Liyuan Wang, Zhiqi Kang, Shuang Cui, Hang Su, Jun Zhu, Yi Zhong</b> </p>
 
 
-Official PyTorch implementation of our paper for **General Continual Learning (GCL)**.
-
 **MePo** (**Me**ta **Po**st-Pretraining) improves GCL with three components: **Meta-Learning for Representation Learning**, **Meta Covariance Initialization**, and **Feature Alignment**. The meta post-pretraining stage adapts the backbone to a more GCL-friendly representation before downstream continual learning.
 
 <p align="center">
